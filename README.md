@@ -43,8 +43,8 @@ Requires macOS 14 Sonoma or later (Apple Silicon or Intel).
 ## Build from source
 
 ```sh
-git clone https://github.com/lynnmeanslight/HyperMac.git
-cd HyperMac
+git clone https://github.com/frombarmars/hypermac.git
+cd hypermac
 scripts/build.sh --install     # builds a universal app into ~/Applications and launches it
 ```
 

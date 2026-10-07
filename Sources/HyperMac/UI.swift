@@ -484,7 +484,7 @@ struct SettingsView: View {
             HStack(spacing: 4) {
                 Text("HyperMac \(Hyperliquid.appVersion) · read-only · open source")
                 Spacer()
-                Link("GitHub", destination: URL(string: "https://github.com/lynnmeanslight/HyperMac")!)
+                Link("GitHub", destination: URL(string: "https://github.com/frombarmars/hypermac")!)
                     .foregroundStyle(HL.mint)
             }
             .font(HL.font(10))
